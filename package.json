@@ -4,6 +4,7 @@
   "main": "app.js",
   "dependencies": {
     "fs": "0.0.1-security",
+    "jest": "^19.0.2",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "node-cache": "^4.1.1",
